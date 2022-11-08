@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bainer{
+    background: #35b8be;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: white;
+  }
+.navbar img{
+    height: 55px;
+padding: 20px 64px;
+
+}
+.navbar{
+/*    
+    position: sticky;
+    top: 0;
+    cursor: pointer; */
+}
+.navbar ul{
+    float: right;
+    list-style: none;
+}
+.navbar ul li{
+    display: inline-block;
+    margin: 30px 30px;
+    font-size: 22px;
+}
+.navbar ul li a{
+    color: black;
+    text-decoration: none;
+}
+.navbar ul li a:hover{
+    color: red;
+}
+.navbar ul li a:hover{
+    transition: 0.6s ease;
+}
+.class img{
+    float: right;
+display: flex;
+}
+.class h1{
+padding: 85px 25px;
+font-size: 60px;
+max-width: 580px;
+letter-spacing: 3px;
+}
+.class p{
+    font-size: 23px;
+    max-width: 615px;
+    margin: -61px 29px;
+}
+.class a{
+    display: inline flow-root list-item;
+margin: 92px;
+list-style: none;
+text-decoration: navajowhite;
+background: #35b8be;
+padding: 21px 42px;
+border-radius: 6px;
+font-size: 20px;
+color: white;
+letter-spacing: 1px;
+}
+.class a:hover{
+    color: black;
+}
+.class a{
+    transition: 0.6s ease;
+}
+.role img{
+    float: right;
+    display: flex;
+}
+.role h1{
+    padding: 85px 25px;
+font-size: 60px;
+max-width: 580px;
+letter-spacing: 3px;
+color: #35b8be;
+}
+.role p{
+    font-size: 23px;
+    max-width: 615px;
+    margin: -61px 29px;
+}
+.role a{
+    display: inline flow-root list-item;
+    margin: 92px;
+    list-style: none;
+    text-decoration: navajowhite;
+    background: #35b8be;
+    padding: 21px 42px;
+    border-radius: 6px;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 1px;
+}
+.role a:hover{
+    color: black;
+}
+.role a{
+    transition: 0.6s ease;
+}
+.warp{
+    margin-top: 180px;
+    display: flex;
+    justify-content: center;
+    font-size: 29px;
+    color: #35b8be;
+  }
+  .coloum{
+    float: left;
+    width: 30.33%;
+    padding: 5px;
+  }
+  .row::after{
+    /* content: "";
+    display: table;
+    clear: both; */
+  }
+  .coloum h1{
+    text-align: center;
+padding: 52px 0px;
+float: right;
+  }
+  .coloum a{
+    margin: 153px;
+background: #35b8be;
+padding: 16px 25px;
+border-radius: 6px;
+text-decoration: none;
+font-size: 20px;
+color: white;
+
+  }
+  .coloum a:hover{
+    color: black;
+
+  }
+.coloum a{
+    transition: 0.6s ease;
+}
+
+
